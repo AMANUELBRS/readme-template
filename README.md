@@ -123,7 +123,7 @@ For more information on the importance of a professional README for your reposit
 
 > Describe how a new developer could make use of your project.
 
-> Understand the Requirements: First, the developer needs to understand the requirements of the login page. What features should it have? What kind of users will be using it? Will there be any specific security requirements?
+Understand the Requirements: First, the developer needs to understand the requirements of the login page. What features should it have? What kind of users will be using it? Will there be any specific security requirements?
 
 Choose a Technology Stack: Depending on the requirements and the developer's familiarity, they need to choose the appropriate technology stack. This may involve deciding between different programming languages (such as JavaScript, Python, or Ruby), frameworks (like React, Angular, or Vue.js for frontend, and Django, Flask, or Express.js for backend), and databases (such as MySQL, PostgreSQL, or MongoDB).
 
@@ -253,9 +253,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[- Implement backend functionality for user authentication]**
-- [ ] **[- Add more customization options for the login page]**
-- [ ] **[and different login modules]**
+- [ ] **[-Implement backend functionality for user authentication]**
+- [ ] **[-Add more customization options for the login page]**
+- [ ] **[-and different login modules]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -315,8 +315,8 @@ Happy coding,
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank
--  our teacher
+we would like to thank
+- our teacher
 - our group members
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
