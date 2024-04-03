@@ -121,6 +121,8 @@ For more information on the importance of a professional README for your reposit
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+> Describe how a new developer could make use of your project.
+
 > Understand the Requirements: First, the developer needs to understand the requirements of the login page. What features should it have? What kind of users will be using it? Will there be any specific security requirements?
 
 Choose a Technology Stack: Depending on the requirements and the developer's familiarity, they need to choose the appropriate technology stack. This may involve deciding between different programming languages (such as JavaScript, Python, or Ruby), frameworks (like React, Angular, or Vue.js for frontend, and Django, Flask, or Express.js for backend), and databases (such as MySQL, PostgreSQL, or MongoDB).
